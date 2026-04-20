@@ -54,31 +54,20 @@
 
 ## 🔭 What I'm Currently Doing
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="220"/>
 
-<table>
-  <tr>
-    <td width="50%">
-
-### 🚀 Working On
+**🚀 Working On**
 - 🕺 **MORIG** — AI Dance Judging System (MediaPipe + Librosa)
 - 🌐 Hybrid Anomaly Fault Detection in ISP Networks
 - 🌬️ Wind Prediction for Power Generation (LSTM + ARIMA)
 
-  </td>
-  <td width="50%">
-
-### 🌱 Learning
+**🌱 Learning**
 - ⚡ Quantum Machine Learning
 - ☁️ Cloud Technologies (AWS, Azure)
 - 📱 Mobile App Development
 - 🧠 Advanced Deep Learning Architectures
 
-  </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -126,7 +115,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
 
 </div>
 
@@ -211,7 +200,7 @@
 ## 📚 Education & Coursework
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="280"/>
 
 **🎓 B.Tech — Computer Science Engineering (Data Science)**
 **SRM Institute of Science and Technology** · Chennai, India · *Expected May 2027*
@@ -245,7 +234,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600"/>
 
 ### 🐍 My Contribution Snake
 
