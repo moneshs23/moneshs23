@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Monesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Data%20Science%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descAlign=50&descSize=20&descColor=a0c4ff)
-
 <div align="center">
 
 # Monesh S &nbsp; ![Pronouns](https://img.shields.io/badge/he%2Fhim-555?style=flat-square&labelColor=302b63&color=0f0c29)
@@ -36,27 +34,21 @@
 
 ## ✨ About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<br/>
-
-🎓 &nbsp;**B.Tech CSE (Data Science)** @ SRM Institute of Science & Technology  
+🎓 &nbsp;**B.Tech CSE (Data Science)** @ SRM Institute of Science & Technology
 📍 &nbsp;Chennai, India | Expected May 2027
 
-<br/>
-
-🤖 &nbsp;Passionate about **AI / ML** and **Computer Vision**  
-💻 &nbsp;Building modern **Full Stack Web Applications**  
-📊 &nbsp;Exploring **Data Science & Analytics**  
-🔬 &nbsp;**Research & Development** member @ ACM SIGAPP Chapter  
+🤖 &nbsp;Passionate about **AI / ML** and **Computer Vision**
+💻 &nbsp;Building modern **Full Stack Web Applications**
+📊 &nbsp;Exploring **Data Science & Analytics**
+🔬 &nbsp;**Research & Development** member @ ACM SIGAPP Chapter
 🌍 &nbsp;Believer in **Open Source** and collaborative innovation
 
-<br/>
-
-📫 &nbsp;Reach me at **moneshs2306@gmail.com**  
+📫 &nbsp;Reach me at **moneshs2306@gmail.com**
 📞 &nbsp;**+91 9688833107**
 
-<br/><br/>
+<br clear="right"/>
 
 ---
 
@@ -75,8 +67,8 @@
 - 🌐 Hybrid Anomaly Fault Detection in ISP Networks
 - 🌬️ Wind Prediction for Power Generation (LSTM + ARIMA)
 
-    </td>
-    <td width="50%">
+  </td>
+  <td width="50%">
 
 ### 🌱 Learning
 - ⚡ Quantum Machine Learning
@@ -84,7 +76,7 @@
 - 📱 Mobile App Development
 - 🧠 Advanced Deep Learning Architectures
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -104,8 +96,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
-
 ### 🤖 AI · ML · Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -113,8 +103,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br/>
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -124,15 +112,11 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-<br/>
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<br/>
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -142,10 +126,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ---
@@ -155,7 +137,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
-
 
 <details open>
 <summary><b>🔬 ACM SIGAPP Chapter — Research & Development Member</b> &nbsp;|&nbsp; Sep 2025 – Present · Chennai</summary>
@@ -191,7 +172,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 </div>
 
-
 <div align="center">
 
 | 🕺 MORIG — AI Dance Judging | 🌐 Hybrid ISP Anomaly Detection | 🌬️ Wind Power Prediction |
@@ -212,16 +192,10 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneshs23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A0C4FF&text_color=FFFFFF&langs_count=8" height="175"/>
 
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moneshs23&theme=tokyonight&hide_border=true&background=0D1117&stroke=302b63&ring=A0C4FF&fire=FF6B6B&currStreakLabel=A0C4FF&sideLabels=A0C4FF&dates=FFFFFF" width="65%"/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moneshs23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A0C4FF&line=302b63&point=A0C4FF&area=true&area_color=302b63" width="100%"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moneshs23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A0C4FF&line=302b63&point=A0C4FF&area=true&area_color=302b63" width="100%"/>
 </div>
 
 ---
@@ -238,12 +212,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
-</div>
 
-
-<div align="center">
-
-**🎓 B.Tech — Computer Science Engineering (Data Science)**  
+**🎓 B.Tech — Computer Science Engineering (Data Science)**
 **SRM Institute of Science and Technology** · Chennai, India · *Expected May 2027*
 
 | 💻 Software | 📐 Core CS | 🤖 AI / ML |
@@ -259,7 +229,6 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 
-
 ```text
 🔍  Passionate about pushing the limits of AI for real-world impact
 🎯  Love solving complex problems with clean, elegant code
@@ -270,27 +239,23 @@
 
 > *"Data is the new oil — but insight is the refinery."*
 
+<br clear="right"/>
+
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ### 🐍 My Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🌐 Let's Connect & Build Something Amazing!
 
@@ -312,6 +277,6 @@
 
 <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling)
+*Thanks for visiting! Let's build something amazing together 🚀*
 
 </div>
