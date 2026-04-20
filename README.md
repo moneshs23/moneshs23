@@ -21,6 +21,9 @@
 <a href="mailto:moneshs2306@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://moneshs.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 <br/><br/>
 
