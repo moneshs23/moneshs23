@@ -1,8 +1,10 @@
-type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Monesh%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20%26%20Data%20Science%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50&descSize=18&descColor=a0c4ff" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Monesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Data%20Science%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descAlign=50&descSize=20&descColor=a0c4ff)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A0C4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Hey+there!+I'm+Monesh+S+%F0%9F%91%8B;Computer+Science+%26+Data+Science+%40+SRMIST;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A0C4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=Hey+there!+I'm+Monesh+S+%F0%9F%91%8B;Computer+Science+%26+Data+Science+%40+SRMIST;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
