@@ -2,9 +2,12 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# Monesh S &nbsp; ![Pronouns](https://img.shields.io/badge/he%2Fhim-555?style=flat-square&labelColor=302b63&color=0f0c29)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A0C4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=Hey+there!+I'm+Monesh+S+%F0%9F%91%8B;Computer+Science+%26+Data+Science+%40+SRMIST;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+### 🎓 Pre-final Year · B.Tech CSE (Data Science) · SRMIST, Chennai
+### 🔬 R&D Member @ ACM SIGAPP &nbsp;|&nbsp; 📊 Data Science Club · Non Tech Head
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A0C4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=45&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Data+Science+%26+Analytics+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
