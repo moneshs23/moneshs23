@@ -135,6 +135,10 @@ type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
 ---
 
 ## 💼 Experience
@@ -168,6 +172,11 @@ type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+</div>
+
 
 <div align="center">
 
@@ -229,6 +238,9 @@ type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M
 
 ## 💡 Fun Facts
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
+
+
 ```text
 🔍  Passionate about pushing the limits of AI for real-world impact
 🎯  Love solving complex problems with clean, elegant code
@@ -238,6 +250,20 @@ type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M
 ```
 
 > *"Data is the new oil — but insight is the refinery."*
+
+---
+
+<div align="center">
+
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moneshs23/moneshs23/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
